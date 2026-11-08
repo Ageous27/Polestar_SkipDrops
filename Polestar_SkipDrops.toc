@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Polestar Skip Drops
+## Notes: Skip leveling-guide quests that farm items with a drop chance.
+## Author: Polestar chat
+## Version: 1.0.0
+## Dependencies: Polestar
+## SavedVariablesPerCharacter: PolestarSkipDropsCharDB
+
+Polestar_SkipDrops.lua
